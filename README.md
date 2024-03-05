@@ -9,7 +9,8 @@
    
 </head>
 <body>
-    <h1> Aqui vai ser uma imagem  </h1>
+    <img> class="imagem-cabecalho" src="alurastart.png" alt="logo alura" </img>
+    
     <ul>
        <li>  escola</li>
        <li> estudantes </li>
