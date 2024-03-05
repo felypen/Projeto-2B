@@ -11,4 +11,6 @@ cabecalho{
 }
 .cabecalho-item{
     display: inline-block;
+    display: 0 16PX;
+    font-size: 24PX;
 }
