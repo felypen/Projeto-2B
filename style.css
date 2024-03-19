@@ -25,3 +25,6 @@
   .escola-imagem{
     width: 20%;
   }
+.escola{
+   background-image: linear-gradient(red,blue);
+}
